@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Trabalho_Pag_Login.jnlp">
+  <information>
+    <title>Trabalho_Pag_Login</title>
+    <vendor>otavi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Trabalho_Pag_Login.jar" size="95713" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="trabalho_pag_login.Trabalho_Pag_Login"  name="Trabalho_Pag_Login" />
+  <update check="always"/>
+</jnlp>
